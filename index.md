@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Angus (Sheng-Chun) Chang
+title: Jason Chang
 ---
 
 <section class="hero">
@@ -9,12 +9,12 @@ title: Angus (Sheng-Chun) Chang
   <div class="hero-overlay"></div>
 
   <div class="hero-content">
-    <p class="hero-kicker">Mechanical Engineering Portfolio</p>
-    <h1 class="hero-name">Angus Chang</h1>
+    <p class="hero-kicker">My Story</p>
+    <h1 class="hero-name">Jason Chang</h1>
 
     <div class="hero-cta">
       <a class="hero-btn" href="{{ '/projects/' | relative_url }}">Projects</a>
-      <a class="hero-btn" href="{{ '/cv/' | relative_url }}">Resume</a>
+      <a class="hero-btn" href="{{ '/sports/' | relative_url }}">Sports</a>
     </div>
   </div>
 </section>
@@ -26,14 +26,7 @@ title: Angus (Sheng-Chun) Chang
   <img class="profile-image" src="{{ '/assets/images/profile-pic.jpg' | relative_url }}" alt="Profile picture" />
 
   <p>
-    I am Angus (Sheng Chun) Chang, a Cornell University mechanical engineering student who loves taking ideas from a rough
-    sketch all the way to working hardware. My interests sit at the intersection of CAD design, rapid prototyping, and real
-    world testing, whether I am optimizing drone frames on the Cornell Autonomous Drone Project Team or fabricating lightweight
-    wings for a bat inspired robot in the Bio Inspired Fluid Lab. I have also led research that resulted in patents on an
-    artificial leaf that generates both electricity and oxygen, as well as novel material structures, and my work has been
-    recognized by competitions such as Regeneron Science Talent Search and the International Science and Engineering Fair.
-    On this portfolio, you will see the same mindset behind all of my projects: careful problem framing, thoughtful design,
-    and a willingness to iterate in the lab until the hardware matches the vision.
+    I am Jason Chang
   </p>
 </div>
 

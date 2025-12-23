@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Angus (Sheng-Chun) Chang Portfolio
+title                    : Jason Chang Portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Angus (Sheng-Chun) Chang
-description              : Angus (Sheng-Chun) Chang - Projects and CV 
+name                     : Jason Chang
+description              : Jason Chang - Projects and Sports 
 baseurl                  : "" # Set this to your repo name 
 url: "https://jason3578.github.io"
 

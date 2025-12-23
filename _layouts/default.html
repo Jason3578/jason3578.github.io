@@ -15,7 +15,7 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-dark text-white fixed-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ 'Jason Chang Portfolio' }}</a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
           <span class="navbar-toggler-icon"></span>
@@ -30,7 +30,7 @@
               <a class="nav-link {% if page.url == '/projects/' %}active{% endif %}" href="{{ "/projects/" | relative_url }}">Projects</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link {% if page.url == '/cv/' %}active{% endif %}" href="{{ "/cv/" | relative_url }}">CV</a>
+              <a class="nav-link {% if page.url == '/sports/' %}active{% endif %}" href="{{ "/sports/" | relative_url }}">Sports</a>
             </li>
           </ul>
         </div>
@@ -53,23 +53,14 @@
     <div class="container footer-contact-inner">
       <!-- LEFT: LinkedIn + Email (kept left, in columns) -->
       <div class="footer-left">
-        <a class="linkedin-link d-inline-flex align-items-center gap-2"
-           href="https://www.linkedin.com/in/angus-chang-810431285/"
-           target="_blank" rel="noopener noreferrer">
-          <i class="bi bi-linkedin"></i>
-          <span>LinkedIn</span>
-        </a>
-
-        <span class="footer-divider">|</span>
-
-        <a class="email-link" href="mailto:angus23232323@gmail.com">
-          Email: angus23232323@gmail.com
+        <a class="email-link" href="mailto:jasondada77@gmail.com">
+          Email: jasondada77@gmail.com
         </a>
       </div>
 
       <!-- RIGHT: Copyright -->
       <div class="footer-right">
-        Copyright &copy; {{ site.time | date: "%Y" }} {{ site.name }}.
+        Copyright &copy; {{ site.time | date: "%Y" }} {{ 'Jason Chang' }}.
       </div>
     </div>
   </div>
