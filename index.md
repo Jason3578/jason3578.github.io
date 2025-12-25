@@ -13,8 +13,9 @@ title: Jason Chang
     <h1 class="hero-name">Jason Chang</h1>
 
     <div class="hero-cta">
-      <a class="hero-btn" href="{{ '/projects/' | relative_url }}">Projects</a>
-      <a class="hero-btn" href="{{ '/sports/' | relative_url }}">Sports</a>
+      <a class="hero-btn" href="{{ '/projects/' | relative_url }}">Research Project</a>
+      <a class="hero-btn" href="{{ '/extra/' | relative_url }}">Extracurricular</a>
+      <a class="hero-btn" href="{{ '/Overview/' | relative_url }}">Overview</a>
     </div>
   </div>
 </section>
