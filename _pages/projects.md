@@ -8,7 +8,7 @@ permalink: /projects/
 
 <section class="container my-5">
 <h2 class="project-title mb-2">
-  <span>An Eco-Efficient Solar Tracking System</span>
+  <span>An Eco-Efficient Solar Tracking System: Powering Off-Grid Communities Affordably</span>
 
   <span class="award-pill" title="Award-winning project">
     <i class="bi bi-award-fill"></i> Top Award
@@ -20,9 +20,14 @@ permalink: /projects/
 </h2>
 
 
-      <p class="text-muted mb-3">
-        A gravity-driven solar tracker that follows the sun without motors or external electricity.
-      </p>
+       <p>
+          <a href="{{ '/assets/images/IMG_3723.jpg' | relative_url }}" target="_blank" rel="noopener">
+            Click to View Poster
+          </a>
+        </p>
+
+
+
 
       <div class="card shadow-sm">
         <div class="card-body">
@@ -38,7 +43,7 @@ permalink: /projects/
               <h5 class="mb-2">Key Features</h5>
               <ul class="mb-0">
                 <li>Gravity-based tracking mechanism that does not use motors or electronics for motion control.</li>
-                <li>Timed fluid release system for gradual tilt changes across morning, midday, and afternoon.</li>
+                <li>Three-stage fluid release system for gradual tilt changes across morning, midday, and afternoon.</li>
                 <li>Designed for off-grid environments where reliability and affordability matter.</li>
               </ul>
             </div>
@@ -58,19 +63,6 @@ permalink: /projects/
           <h5 class="mb-3">Project Photos</h5>
 
           <div class="row g-3">
-            <div class="col-12 col-lg-4">
-              <figure class="mb-0">
-                <img
-              src="{{ '/assets/images/poster.JPG' | relative_url }}"
-              class="img-fluid rounded"
-           
-              loading="lazy"
-              >
-                <figcaption class="text-muted mt-2 small">
-                  Science fair presentation: system overview, method, results, and conclusions.
-                </figcaption>
-              </figure>
-            </div>
 
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
@@ -99,7 +91,35 @@ permalink: /projects/
                 </figcaption>
               </figure>
             </div>
-          </div>
+
+            <div class="col-12 col-lg-4">
+              <figure class="mb-0">
+                <img
+              src="{{ '/assets/images/IMG_3722.JPG' | relative_url }}"
+              class="img-fluid rounded"
+           
+              loading="lazy"
+              >
+                <figcaption class="text-muted mt-2 small">
+                  Full system setup: gravity-driven solar tracker with three-stage fluid control (outdoor configuration).
+                </figcaption>
+              </figure>
+            </div>
+            
+
+            <div class="col-12 col-lg-4">
+              <figure class="mb-0">
+                <img
+              src="{{ '/assets/images/IMG_3708.JPG' | relative_url }}"
+              class="img-fluid rounded"
+           
+              loading="lazy"
+              >
+                <figcaption class="text-muted mt-2 small">
+                  Science fair presentation: system overview, method, results, and conclusions.
+                </figcaption>
+              </figure>
+            </div>
 
           <hr class="my-4" />
 
@@ -107,9 +127,12 @@ permalink: /projects/
             <div class="col-12 col-lg-6">
               <h5 class="mb-2">Recognition</h5>
               <ul class="mb-0">
-                <li>Massachusetts Science & Engineering Fair (MSEF): First Place and special awards.</li>
-                <li>Thermo Fisher Scientific Junior Innovators Challenge: Top 300 (2025).</li>
-                <li>Utility patent granted in Taiwan for this system.</li>
+                <li>Top 300 Junior Innovator, 2025 Thermo Fisher Scientific Junior Innovators Challenge.</li>
+                <li>First Place, 2025 Massachusetts Science & Engineering Fair (regional and state).</li>
+                <li>Engineering Excellence Award, 2025 MSEF.</li>
+                <li>Lemelson Early Inventor Prize, 2025 MSEF.</li>
+                <li>Taiwan utility patent granted for this system.</li>
+                <li>Finalist, 2026 National STEM Festival (competition ongoing). The competition is opened to students in grades 7-12, making this selection as a middle school student an especially noteworthy achievement.</li>
               </ul>
             </div>
 
@@ -125,13 +148,17 @@ permalink: /projects/
 
         </div>
       </div>
+    </div>
 
 
-<hr class="my-5" />
 
+
+
+<section class="container my-5">
 <h2 class="project-title mb-2">
   <span>HelioSphere: Buckyball Fresnel Concentration for Enhanced Power Generation (In progress)</span>
 </h2>
+
 
 <p class="text-muted mb-3">
   A buckyball-inspired solar concentrator that uses Fresnel lenses to capture sunlight from multiple directions and focus it onto solar cells.
@@ -161,11 +188,27 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- No photos section for this project (yet) -->
+
+    <h5 class="mb-3">Project Photos</h5>
+
+          <div class="row g-3">
+
+            <div class="col-12 col-lg-4">
+              <figure class="mb-0">
+                <img
+              src="{{ '/assets/images/IMG_3724.JPG' | relative_url }}"
+              class="img-fluid rounded"
+             
+              loading="lazy"
+              >
+                <figcaption class="text-muted mt-2 small">
+                  3D printed base model of Buckyball.
+                </figcaption>
+              </figure>
+            </div>
 
   </div>
 </div>
 
 
 
-</section>
