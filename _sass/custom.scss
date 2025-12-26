@@ -616,3 +616,24 @@ main.container{
   font-size: 1rem;
 }
 
+/* ===== HERO BUTTON: white outline ===== */
+.hero-btn{
+  border: 2px solid #9c9c9c;          /* white line */
+  box-sizing: border-box;
+}
+
+.hero-btn:hover{
+  opacity: 1;                      /* keep text crisp */
+  background: rgba(0,0,0,0.9);     /* subtle hover */
+}
+
+.hero-btn:focus-visible{
+  outline: 3px solid rgba(255,255,255,0.55);
+  outline-offset: 4px;
+}
+/* Orange badge for "Patented" */
+.award-pill-orange{
+  background: #fa7929;                 /* orange */
+  border: 1px solid rgba(255,255,255,0.28);
+  color: #fff;
+}

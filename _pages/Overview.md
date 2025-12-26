@@ -3,7 +3,7 @@ layout: default
 title: Jason Chang - Curriculum Vitae
 permalink: /Overview/
 ---
-## Co-curricular Activities, Awards, and Leadership
+## Overview
 
 [Download File]({{ "/assets/awards.pdf" | relative_url }}) in PDF format.
 

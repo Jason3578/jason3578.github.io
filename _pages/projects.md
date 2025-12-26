@@ -3,20 +3,23 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
+## Research Projects
+---
 
 <section class="container my-5">
-
-<h1 class="page-title">
-  Research Projects
 <h2 class="project-title mb-2">
   <span>An Eco-Efficient Solar Tracking System</span>
 
   <span class="award-pill" title="Award-winning project">
     <i class="bi bi-award-fill"></i> Top Award
   </span>
+
+  <span class="award-pill award-pill-orange" title="Patented">
+    <i class="bi bi-award-fill"></i> Patented
+  </span>
 </h2>
 
-</h1>
+
       <p class="text-muted mb-3">
         A gravity-driven solar tracker that follows the sun without motors or external electricity.
       </p>
@@ -122,6 +125,47 @@ permalink: /projects/
 
         </div>
       </div>
+
+
+<hr class="my-5" />
+
+<h2 class="project-title mb-2">
+  <span>HelioSphere: Buckyball Fresnel Concentration for Enhanced Power Generation (In progress)</span>
+</h2>
+
+<p class="text-muted mb-3">
+  A buckyball-inspired solar concentrator that uses Fresnel lenses to capture sunlight from multiple directions and focus it onto solar cells.
+</p>
+
+<div class="card shadow-sm">
+  <div class="card-body">
+
+    <!-- Date pill -->
+    <span class="badge rounded-pill text-bg-light border mb-3" style="font-size: 1rem;">
+      2025 – Present
+    </span>
+
+    <div class="row g-3">
+      <div class="col-12 col-lg-12">
+        <ul class="mb-0">
+          <li>
+            Designing a buckyball-shaped solar energy sphere using Fresnel lenses to collect sunlight from multiple directions and focus it onto solar cells.
+          </li>
+          <li>
+            Building on a gravity-driven solar tracking system to create a more resilient design for extreme weather conditions.
+          </li>
+          <li>
+            Planned submission: 2026 Massachusetts Science & Engineering Fair (MSEF).
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- No photos section for this project (yet) -->
+
+  </div>
+</div>
+
 
 
 </section>
