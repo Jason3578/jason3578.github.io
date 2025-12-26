@@ -55,9 +55,9 @@ permalink: /extra/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-              src="{{ '/assets/images/IMG_3701.JPG' | relative_url }}"
+              src="{{ '/assets/images/IMG_3710.JPG' | relative_url }}"
               class="img-fluid rounded"
-              alt="Flute performance in concert band"
+             
               loading="lazy"
               >
                 <figcaption class="text-muted mt-2 small">
