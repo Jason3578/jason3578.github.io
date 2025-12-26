@@ -21,7 +21,7 @@ permalink: /projects/
 
 
        <p>
-          <a href="{{ '/assets/images/IMG_3723.jpg' | relative_url }}" target="_blank" rel="noopener">
+          <a href="{{ '/assets/images/IMG_3723.JPG' | relative_url }}" target="_blank" rel="noopener">
             Click to View Poster
           </a>
         </p>
