@@ -61,9 +61,11 @@ permalink: /projects/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/poster.jpg' | relative_url }}"
-                />
+              src="{{ '/assets/images/poster.JPG' | relative_url }}"
+              class="img-fluid rounded"
+           
+              loading="lazy"
+              >
                 <figcaption class="text-muted mt-2 small">
                   Science fair presentation: system overview, method, results, and conclusions.
                 </figcaption>
@@ -73,9 +75,11 @@ permalink: /projects/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/outdoor1.jpg' | relative_url }}"
-                />
+              src="{{ '/assets/images/outdoor1.JPG' | relative_url }}"
+              class="img-fluid rounded"
+             
+              loading="lazy"
+              >
                 <figcaption class="text-muted mt-2 small">
                   Outdoor winter test: recording measurements under cold-weather conditions.
                 </figcaption>
@@ -85,9 +89,11 @@ permalink: /projects/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/outdoor2.jpg' | relative_url }}"
-                />
+              src="{{ '/assets/images/outdoor2.JPG' | relative_url }}"
+              class="img-fluid rounded"
+           
+              loading="lazy"
+              >
                 <figcaption class="text-muted mt-2 small">
                   Close-up: tilt mechanism and measurement workflow during testing.
                 </figcaption>

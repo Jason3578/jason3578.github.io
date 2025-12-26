@@ -29,9 +29,10 @@ permalink: /extra/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/IMG_3714.jpg' | relative_url }}"
-                />
+              src="{{ '/assets/images/IMG_3714.JPG' | relative_url }}"
+              class="img-fluid rounded"
+              loading="lazy"
+               >
                 <figcaption class="text-muted mt-2 small">
                   Midfield role: support both offense and defense, communicate, and control tempo.
                 </figcaption>
@@ -54,9 +55,11 @@ permalink: /extra/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/IMG_3710.jpg' | relative_url }}"
-                />
+              src="{{ '/assets/images/IMG_3701.JPG' | relative_url }}"
+              class="img-fluid rounded"
+              alt="Flute performance in concert band"
+              loading="lazy"
+              >
                 <figcaption class="text-muted mt-2 small">
                    Game-day focus and quick reaction under pressure.
                 </figcaption>
@@ -134,11 +137,10 @@ permalink: /extra/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/IMG_3716.jpg' | relative_url }}"
-                  alt="Science fair poster presentation for the Eco-Efficient Solar Tracking System"
-                  loading="lazy"
-                />
+              src="{{ '/assets/images/IMG_3716.JPG' | relative_url }}"
+              class="img-fluid rounded"
+              loading="lazy"
+            >
                 <figcaption class="text-muted mt-2 small">
                   Golf: focus, consistency, and continuous improvement (an early interest).
                 </figcaption>
@@ -148,11 +150,11 @@ permalink: /extra/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/IMG_3718.jpg' | relative_url }}"
-                  alt="Outdoor winter testing setup measuring solar panel performance"
-                  loading="lazy"
-                />
+              src="{{ '/assets/images/IMG_3718.JPG' | relative_url }}"
+              class="img-fluid rounded"
+    
+              loading="lazy"
+             >
                 <figcaption class="text-muted mt-2 small">
                      Hands-on building: learning by doing from a young age.
                 </figcaption>
