@@ -41,9 +41,10 @@ permalink: /extra/
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
                 <img
-                  class="img-fluid rounded shadow-sm"
-                  src="{{ '/assets/images/IMG_3707.jpg' | relative_url }}"
-                />
+              src="{{ '/assets/images/IMG_3707.JPG' | relative_url }}"
+              class="img-fluid rounded"
+              loading="lazy"
+                >
                 <figcaption class="text-muted mt-2 small">
                      Swimming builds endurance and consistency through daily practice.
                 </figcaption>
