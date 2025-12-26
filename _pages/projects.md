@@ -81,7 +81,7 @@ permalink: /projects/
               loading="lazy"
               >
                 <figcaption class="text-muted mt-2 small">
-                  Outdoor winter test: recording measurements under cold-weather conditions.
+                  Outdoor test: recording measurements under cold-weather conditions.
                 </figcaption>
               </figure>
             </div>
