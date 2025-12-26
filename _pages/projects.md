@@ -63,8 +63,6 @@ permalink: /projects/
                 <img
                   class="img-fluid rounded shadow-sm"
                   src="{{ '/assets/images/poster.jpg' | relative_url }}"
-                  alt="Science fair poster presentation for the Eco-Efficient Solar Tracking System"
-                  loading="lazy"
                 />
                 <figcaption class="text-muted mt-2 small">
                   Science fair presentation: system overview, method, results, and conclusions.
@@ -77,8 +75,6 @@ permalink: /projects/
                 <img
                   class="img-fluid rounded shadow-sm"
                   src="{{ '/assets/images/outdoor1.jpg' | relative_url }}"
-                  alt="Outdoor winter testing setup measuring solar panel performance"
-                  loading="lazy"
                 />
                 <figcaption class="text-muted mt-2 small">
                   Outdoor winter test: recording measurements under cold-weather conditions.
@@ -91,8 +87,6 @@ permalink: /projects/
                 <img
                   class="img-fluid rounded shadow-sm"
                   src="{{ '/assets/images/outdoor2.jpg' | relative_url }}"
-                  alt="Close-up of solar panel tilt mechanism during outdoor testing"
-                  loading="lazy"
                 />
                 <figcaption class="text-muted mt-2 small">
                   Close-up: tilt mechanism and measurement workflow during testing.

@@ -31,8 +31,6 @@ permalink: /extra/
                 <img
                   class="img-fluid rounded shadow-sm"
                   src="{{ '/assets/images/IMG_3714.jpg' | relative_url }}"
-                  alt="Science fair poster presentation for the Eco-Efficient Solar Tracking System"
-                  loading="lazy"
                 />
                 <figcaption class="text-muted mt-2 small">
                   Midfield role: support both offense and defense, communicate, and control tempo.
@@ -45,8 +43,6 @@ permalink: /extra/
                 <img
                   class="img-fluid rounded shadow-sm"
                   src="{{ '/assets/images/IMG_3707.jpg' | relative_url }}"
-                  alt="Outdoor winter testing setup measuring solar panel performance"
-                  loading="lazy"
                 />
                 <figcaption class="text-muted mt-2 small">
                      Swimming builds endurance and consistency through daily practice.
@@ -59,8 +55,6 @@ permalink: /extra/
                 <img
                   class="img-fluid rounded shadow-sm"
                   src="{{ '/assets/images/IMG_3710.jpg' | relative_url }}"
-                  alt="Close-up of solar panel tilt mechanism during outdoor testing"
-                  loading="lazy"
                 />
                 <figcaption class="text-muted mt-2 small">
                    Game-day focus and quick reaction under pressure.
