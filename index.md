@@ -27,7 +27,7 @@ title: Jason Chang
   <img class="profile-image" src="{{ '/assets/images/profile-pic.jpg' | relative_url }}" alt="Profile picture" />
 
   <p>
-    I am Jason (Sheng Ta) Chang, a 7th grader at Worcester Academy who hopes to invent a brighter future. I’m especially drawn to renewable energy and sustainability, including solar technology and ways to make energy systems practical and affordable. As I work on these projects, “I hope to come up with more practical solutions that can make clean energy mainstream around the world.” In this portfolio, you’ll see my project that highlights how I think and work. I focus on building clear, reliable designs, documenting my process, and learning from mistakes to improve each version. I’m always looking for new challenges that push my creativity and engineering skills.
+    I am Jason (Sheng Ta) Chang, a 7th grader at Worcester Academy who hopes to invent a brighter future. I’m especially drawn to renewable energy and sustainability, including solar technology and ways to make energy systems practical and affordable. As I work on these projects, “I hope to come up with more practical solutions that can make clean energy mainstream around the world.” In this portfolio, you’ll see my projects that highlights how I think and work. I focus on building clear, reliable designs, documenting my process, and learning from mistakes to improve each version. I’m always looking for new challenges that push my creativity and engineering skills.
   </p>
 </div>
 
