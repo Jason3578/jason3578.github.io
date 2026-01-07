@@ -156,7 +156,7 @@ permalink: /projects/
 
 <section class="container my-5">
 <h2 class="project-title mb-2">
-  <span>HelioSphere: Buckyball Fresnel Concentration for Enhanced Power Generation (In progress)</span>
+  <span>HelioSphere: Buckyball Fresnel Solar Concentrator (In progress)</span>
 </h2>
 
 
