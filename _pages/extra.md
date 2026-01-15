@@ -118,10 +118,13 @@ permalink: /extra/
         <div class="col-lg-7">
           <ul class="mb-0">
             <li>
-              <strong>Golf</strong>: Builds patience, consistency, and self-correction—small adjustments in technique lead to measurable results.
+              <strong>Golf</strong>: Builds patience, consistency, and self correction small adjustments in technique lead to measurable results.
             </li>
             <li>
-              <strong>Hands-on building</strong>: Enjoy working with tools and materials to turn an idea into a real object—planning, measuring, and improving the build.
+              <strong>Hands-on building</strong>: Enjoy working with tools and materials to turn an idea into a real object planning, measuring, and improving the build.
+            </li>
+            <li>
+              <strong>Coding (Python)</strong>: Build small games to learn logic, debugging, and user experience turning ideas into something interactive.
             </li>
           </ul>
 
@@ -130,6 +133,19 @@ permalink: /extra/
             These interests began when I was young and helped shape how I learn today: stay calm, adjust strategy, and improve through practice and iteration.
             </p>
 
+          </div>
+        </div>
+
+         <div style="max-width: 900px; margin: 12px 0;">
+          <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+            <iframe
+              src="https://www.youtube.com/embed/oQfb010JEnM"
+              title="Project Video"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+            </iframe>
           </div>
         </div>
 

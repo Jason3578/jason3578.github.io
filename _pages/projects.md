@@ -20,11 +20,30 @@ permalink: /projects/
 </h2>
 
 
-       <p>
+
+        <div style="max-width: 900px; margin: 12px 0;">
+          <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+            <iframe
+              src="https://www.youtube.com/embed/w9kPOHZl3Js"
+              title="Project Video"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+            </iframe>
+          </div>
+        </div>
+      
+         <p>
           <a href="{{ '/assets/images/IMG_3723.JPG' | relative_url }}" target="_blank" rel="noopener">
             Click to View Poster
           </a>
         </p>
+
+
+
+
+
 
 
 
