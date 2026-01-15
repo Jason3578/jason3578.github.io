@@ -121,6 +121,9 @@ permalink: /extra/
               <strong>Golf</strong>: Builds patience, consistency, and self correction small adjustments in technique lead to measurable results.
             </li>
             <li>
+              <strong>Fishing</strong>: Trains patience and attention to small signals, slowing me down enough to think clearly and refine decisions.
+            </li>
+            <li>
               <strong>Hands-on building</strong>: Enjoy working with tools and materials to turn an idea into a real object planning, measuring, and improving the build.
             </li>
             <li>
@@ -159,6 +162,19 @@ permalink: /extra/
             >
                 <figcaption class="text-muted mt-2 small">
                   Golf: focus, consistency, and continuous improvement (an early interest).
+                </figcaption>
+              </figure>
+            </div>
+
+            <div class="col-12 col-lg-4">
+              <figure class="mb-0">
+                <img
+              src="{{ '/assets/images/IMG_3783.JPG' | relative_url }}"
+              class="img-fluid rounded"
+              loading="lazy"
+            >
+                <figcaption class="text-muted mt-2 small">
+                  Fishing: patience, attention to detail.
                 </figcaption>
               </figure>
             </div>
