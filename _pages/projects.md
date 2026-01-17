@@ -210,7 +210,8 @@ permalink: /projects/
 
     <h5 class="mb-3">Project Photos</h5>
 
-          <div class="row g-3">
+          <div class="row g-3 project-photos">
+
 
             <div class="col-12 col-lg-4">
               <figure class="mb-0">
