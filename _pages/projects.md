@@ -208,9 +208,9 @@ permalink: /projects/
     </div>
 
 
-    <h5 class="mb-3">Project Photos</h5>
+    <h5 class="mb-3"></h5>
 
-          <div class="row g-3 project-photos">
+          <div class="row g-3">
 
 
             <div class="col-12 col-lg-4">
