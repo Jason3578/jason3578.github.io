@@ -236,7 +236,7 @@ permalink: /projects/
               loading="lazy"
               >
                 <figcaption class="text-muted mt-2 small">
-                  3D printed base model of Buckyball.
+                  
                 </figcaption>
               </figure>
             </div>
