@@ -227,6 +227,20 @@ permalink: /projects/
               </figure>
             </div>
 
+            <div class="col-12 col-lg-4">
+              <figure class="mb-0">
+                <img
+              src="{{ '/assets/images/IMG_3794.JPG' | relative_url }}"
+              class="img-fluid rounded"
+             
+              loading="lazy"
+              >
+                <figcaption class="text-muted mt-2 small">
+                  3D printed base model of Buckyball.
+                </figcaption>
+              </figure>
+            </div>
+
             
 
   </div>
