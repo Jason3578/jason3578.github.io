@@ -95,32 +95,33 @@ permalink: /Overview/
   </div>
 
   <div class="row g-3 mt-3">
-    <!-- Athletics and Music -->
-    <div class="col-12 col-lg-6">
-      <h3 class="mt-3 mb-2">Athletics and Music</h3>
-      <div class="card h-100 shadow-sm">
-        <div class="card-body">
-          <ul class="mb-0">
-            <li>Member of middle school soccer, swimming, and track teams (2024 – 2026).</li>
-            <li>Flute player in the school concert band (2023 – 2026).</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <!-- Community Service -->
-    <div class="col-12 col-lg-6">
-      <h3 class="mt-3 mb-2">Community Service</h3>
-      <div class="card h-100 shadow-sm">
-        <div class="card-body">
-          <ul class="mb-0">
-            <li>Volunteering with the Taipei Association for Critically Ill Children during summer breaks (2023 – Present).</li>
-            <li>Teaching assistant for younger students at Union Hill School (2024 – 2025).</li>
-          </ul>
-        </div>
+  <!-- Athletics and Music -->
+  <div class="col-12 col-lg-6 d-flex flex-column">
+    <h3 class="mt-3 mb-2">Athletics and Music</h3>
+    <div class="card shadow-sm flex-grow-1">
+      <div class="card-body">
+        <ul class="mb-0">
+          <li>Member of middle school soccer, swimming, and track teams (2024 – 2026).</li>
+          <li>Flute player in the school concert band (2023 – 2026).</li>
+        </ul>
       </div>
     </div>
   </div>
+
+  <!-- Community Service -->
+  <div class="col-12 col-lg-6 d-flex flex-column">
+    <h3 class="mt-3 mb-2">Community Service</h3>
+    <div class="card shadow-sm flex-grow-1">
+      <div class="card-body">
+        <ul class="mb-0">
+          <li>Volunteering with the Taipei Association for Critically Ill Children during summer breaks (2023 – Present).</li>
+          <li>Teaching assistant for younger students at Union Hill School (2024 – 2025).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 
   <div class="row g-3 mt-3">
     <!-- Clubs -->
